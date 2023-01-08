@@ -1,0 +1,79 @@
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\DragonOCR.exe.config
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\DragonOCR.exe
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\DragonOCR.pdb
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\RestSharp.dll
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\bin\Debug\RestSharp.xml
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csprojAssemblyReference.cache
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\MainWindow.g.cs
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\App.g.cs
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR_MarkupCompile.cache
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR_MarkupCompile.lref
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\App.baml
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\MainWindow.baml
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.g.resources
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.Properties.Resources.resources
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csproj.GenerateResource.cache
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csproj.CopyComplete
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.exe
+C:\Users\Ngoc Nguyen\Desktop\DragonOCR\DragonOCR\obj\Debug\DragonOCR.pdb
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\DragonOCR.exe.config
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\DragonOCR.exe
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\DragonOCR.pdb
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\RestSharp.dll
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\bin\Debug\RestSharp.xml
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csprojAssemblyReference.cache
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\MainWindow.g.cs
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\App.g.cs
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR_MarkupCompile.cache
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR_MarkupCompile.lref
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\App.baml
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\MainWindow.baml
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.g.resources
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.Properties.Resources.resources
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csproj.GenerateResource.cache
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.csproj.CopyComplete
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.exe
+C:\Users\Ngoc Nguyen\source\repos\DragonOCR\DragonOCR\obj\Debug\DragonOCR.pdb
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.csproj.AssemblyReference.cache
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.csproj.SuggestedBindingRedirects.cache
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\MainWindow.g.cs
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\App.g.cs
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR_MarkupCompile.cache
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR_MarkupCompile.lref
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.exe
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.pdb
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\DragonOCR.exe.config
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\DragonOCR.exe
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\DragonOCR.pdb
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\MaterialDesignColors.dll
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\Newtonsoft.Json.dll
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\RestSharp.dll
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\MaterialDesignColors.pdb
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\Newtonsoft.Json.xml
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\bin\Debug\RestSharp.xml
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\App.baml
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\MainWindow.baml
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.g.resources
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.Properties.Resources.resources
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.csproj.GenerateResource.cache
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.csproj.CoreCompileInputs.cache
+E:\ctf\ke\DragonOCR-1.0.0\DragonOCR\obj\Debug\DragonOCR.csproj.CopyComplete
