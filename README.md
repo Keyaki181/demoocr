@@ -21,7 +21,7 @@ Sau khi hoàn thành tải về các ứng dụng và thư viện cần thiết,
 
 Giao diện cơ bản của ứng dụng:
 
-![alt](https://imgur.com/nlcslV5)
+![alt](https://i.imgur.com/nlcslV5.png)
 
 ```
 Chú thích: 
