@@ -1,0 +1,10 @@
+munch==2.5.0
+numpy==1.23.4
+pandas==1.5.1
+Pillow==9.4.0
+pix2tex==0.0.29
+pyautogui==0.9.53
+PyYAML==6.0
+timm==0.5.4
+torch==1.12.1
+transformers==4.25.1
